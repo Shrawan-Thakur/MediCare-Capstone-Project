@@ -4,7 +4,7 @@
 Medicare is a company that supplies medicines and a couple of other healthcare essentials at an affordable price. It was established in 2012 in Delhi, India. The Medicare team has decided to develop a dynamic and responsive web application for online ordering of medicines.
 
 ## Run the application
-Download or clone the content of repository. Then follow the instruction given below:
+Download the content of repository. Then follow the instruction given below:
 
 ### Setup for frontend
 1. Open the folder Medicare-Frontend.
@@ -25,5 +25,5 @@ Download or clone the content of repository. Then follow the instruction given b
 The web application is now ready to use in http://localhost:4200/
 
 Admin Details:
-Username: admin@medicare.com
+Username: admin12medicare.com
 Password: admin12345
